@@ -23,7 +23,6 @@ mc = minecraft.Minecraft.create()
 
 mc.postToChat("Welcome to Minecraft Find the Diamond")
 mc.postToChat("The Game will begin in 3 seconds...")
-mc.postToChat("Get your finger out of your mouth Jimmy!...")
 
 time.sleep(3)
 
